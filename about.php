@@ -42,7 +42,7 @@
         (15.) Records – a list of records of time spent.<br>
         
         </div>
-	</div>	
+	
    		
 
  
